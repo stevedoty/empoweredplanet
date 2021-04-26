@@ -2245,7 +2245,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("../../images/imports/oceantides.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2255,7 +2255,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("../../images/imports/marek-okon-tWWCqIMiUmg-unsplash.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,12 +2263,40 @@ input, select, textarea {
 
 /* Two */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
-	}
+#two {
+background: url("../../images/imports/andrew-coelho-VB-w_3dnyvI-unsplash.jpg");
+background-size: 256px 256px, cover;
+background-attachment: fixed, fixed;
+background-position: top left, center center;
+}
+
+/* Three */
+
+#three {
+background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
+background-size: 256px 256px, cover;
+background-attachment: fixed, fixed;
+background-position: top left, center center;
+}
+
+/* Four */
+
+#four {
+background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
+background-size: 256px 256px, cover;
+background-attachment: fixed, fixed;
+background-position: top left, center center;
+}
+
+/* Five */
+
+#Five {
+background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
+background-size: 256px 256px, cover;
+background-attachment: fixed, fixed;
+background-position: top left, center center;
+}
+
 
 /* Contact */
 
