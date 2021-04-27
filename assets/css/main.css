@@ -2246,7 +2246,7 @@ input, select, textarea {
 
 	#intro {
 		background: url("../../images/imports/oceantides.jpg");
-		background-size: 256px 256px, cover;
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
@@ -2256,7 +2256,7 @@ input, select, textarea {
 
 	#one {
 		background: url("../../images/imports/marek-okon-tWWCqIMiUmg-unsplash.jpg");
-		background-size: 256px 256px, cover;
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
@@ -2265,7 +2265,7 @@ input, select, textarea {
 
 #two {
 background: url("../../images/imports/andrew-coelho-VB-w_3dnyvI-unsplash.jpg");
-background-size: 256px 256px, cover;
+background-size: cover;
 background-attachment: fixed, fixed;
 background-position: top left, center center;
 }
@@ -2274,7 +2274,7 @@ background-position: top left, center center;
 
 #three {
 background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
-background-size: 256px 256px, cover;
+background-size: cover;
 background-attachment: fixed, fixed;
 background-position: top left, center center;
 }
@@ -2283,7 +2283,7 @@ background-position: top left, center center;
 
 #four {
 background: url("../../images/imports/kent-pilcher-87MIF4vqHWg-unsplash.jpg");
-background-size: 256px 256px, cover;
+background-size: cover;
 background-attachment: fixed, fixed;
 background-position: top left, center center;
 }
@@ -2292,9 +2292,9 @@ background-position: top left, center center;
 
 #five {
 background: url("../../images/imports/shane-rounce-DNkoNXQti3c-unsplash.jpg");
-background-size: 256px 256px, cover;
+background-size: cover;
 background-attachment: fixed, fixed;
-background-position: top left, center center;
+background-position: center center;
 }
 
 /* Contact */
