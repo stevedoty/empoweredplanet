@@ -299,6 +299,7 @@ input, select, textarea {
 			transform: scale(0.5) rotate(360deg);
 			color: #e5e6e7;
 			z-index: -1;
+			
 		}
 	}
 
