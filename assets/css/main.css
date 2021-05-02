@@ -299,7 +299,7 @@ input, select, textarea {
 			transform: scale(0.5) rotate(360deg);
 			color: #e5e6e7;
 			z-index: -1;
-			
+
 		}
 	}
 
@@ -2248,9 +2248,14 @@ input, select, textarea {
 	#intro {
 		background: url("../../images/imports/oceantides.jpg");
 		background-size: cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+	#intro .content {
+		width: 618px;
+		height: 382px;
 	}
 
 /* One */
@@ -2258,45 +2263,51 @@ input, select, textarea {
 	#one {
 		background: url("../../images/imports/marek-okon-tWWCqIMiUmg-unsplash.jpg");
 		background-size: cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center center;
+
 	}
 
-/* Two */
+	/* Two */
 
-#two {
-background: url("../../images/imports/andrew-coelho-VB-w_3dnyvI-unsplash.jpg");
-background-size: cover;
-background-attachment: fixed, fixed;
-background-position: top left, center center;
-}
+	#two {
+	background: url("../../images/imports/andrew-coelho-VB-w_3dnyvI-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	}
 
-/* Three */
+	/* Three */
 
-#three {
-background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
-background-size: cover;
-background-attachment: fixed, fixed;
-background-position: top left, center center;
-}
+	#three {
+	background: url("../../images/imports/ronaldo-de-oliveira-wngy5vxtZJg-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	}
 
-/* Four */
+	/* Four */
 
-#four {
-background: url("../../images/imports/kent-pilcher-87MIF4vqHWg-unsplash.jpg");
-background-size: cover;
-background-attachment: fixed, fixed;
-background-position: top left, center center;
-}
+	#four {
+	background: url("../../images/imports/kent-pilcher-87MIF4vqHWg-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	}
 
-/* Five */
+	/* Five */
 
-#five {
-background: url("../../images/imports/shane-rounce-DNkoNXQti3c-unsplash.jpg");
-background-size: cover;
-background-attachment: fixed, fixed;
-background-position: center center;
-}
+	#five {
+	background: url("../../images/imports/shane-rounce-DNkoNXQti3c-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	}
 
 /* Contact */
 
