@@ -1416,6 +1416,21 @@ input, select, textarea {
 			}
 
 		}
+/* Media */
+
+	.media {
+		/* display: grid;
+		justify-content: center;
+		align-content: center; */
+	}
+
+ 	.media article{
+		/* display: inline-block; */
+		width:30%;
+		margin: 0.1em;
+		float: left;
+	}
+
 
 /* Gallery */
 
