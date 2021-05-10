@@ -622,7 +622,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: rgba(255,255,255,0.628);
+		background: rgba(255,255,255,0.618);
 		border-radius: 0.382em;
 		color: #39454b;
 		padding: 1.618em;
@@ -644,8 +644,8 @@ input, select, textarea {
 			}
 
 				.box.style2 {
-					padding: 1.5em 1.25em 1.5em 1.25em;
-					background-color: rgba(255, 255, 255, 0.9);
+					padding: 1.618;
+					background-color: rgba(255, 255, 255, 0.618);
 				}
 
 		}
