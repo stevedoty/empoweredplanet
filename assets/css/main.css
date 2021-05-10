@@ -622,9 +622,11 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: rgba(255,255,255,0.628);
+		border-radius: 0.382em;
 		color: #39454b;
-		padding: 2em;
+		padding: 1.618em;
+		text-align: center;
 	}
 
 		.box > :last-child {
@@ -2269,6 +2271,9 @@ input, select, textarea {
 		background-repeat: no-repeat;
 	}
 	#intro .content {
+		font-weight: 100;
+		background-color: rgba(0,0,0,.628);
+		border-radius: 0.382em;
 		width: 618px;
 		height: 382px;
 	}

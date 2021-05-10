@@ -1,5 +1,21 @@
 {
-  "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3"
-  }
+	"name": "empoweredplanet",
+	"version": "1.0.0",
+	"description": "empoweredplanet",
+	"scripts": {
+		"deploy": "gsutil -m rsync -R gs://www.empoweredplanet.net/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stevedoty/empoweredplanet.git"
+	},
+	"author": "steve",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/stevedoty/empoweredplanet/issues"
+	},
+	"homepage": "https://github.com/stevedoty/empoweredplanet#readme",
+	"devDependencies": {
+
+	}
 }
