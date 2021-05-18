@@ -1209,7 +1209,6 @@ input, select, textarea {
 				text-indent: 38.1%;
 			}
 		.banner-footer {
-			margin: 0 auto;
 			width: 100%;
 			display: grid;
 			grid-template-columns: 9fr 2fr 1fr;
@@ -1218,9 +1217,12 @@ input, select, textarea {
 			.journalist-name {
 			}
 			.journalist-picture {
+				margin: 0 0.5em 0 0;
 				width: 70px;
 				height: 70px;
-				transform: translateY(-50%);
+				transform: translateY(-25%);
+				object-fit: cover;
+				border-radius: 0.2em;
 			}
 
 	footer {
