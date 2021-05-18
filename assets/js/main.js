@@ -76,6 +76,14 @@
 
 		}
 
+	// Banner
+	var quotes = ['"If you quit then you guarantee it will never happen"']
+
+	$window.on('load', function(){
+		document.querySelector(".banner-header").style.color = 'white';
+		document.querySelector(".quote").innerHTML = quotes[0];
+	})
+
 	// Gallery.
 		$window.on('load', function() {
 
